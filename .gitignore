@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+code/TeamsObject
+results/AllPlayers.txt
+results/AllTeams.txt
